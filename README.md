@@ -1,4 +1,4 @@
-# hello-world
-My first repo
+# Odin Project 1
+My first project for the Odin Project 
 
-hello to all
+A simple website featuring recipes
